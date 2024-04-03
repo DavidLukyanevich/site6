@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <link href="music.school"/>
+        <title>Записуємся на заннятя!</title>
+    </head>
+    <body>
+        <header>
+        <h1><img src="https://cdn.pixabay.com/photo/2016/11/19/00/12/wave-1837426_640.png" width="67px" height="67px">Музикальна школа "Ритм сердця"</h1>
+        </header>
+        <main>
+            <p>ми стараємось що б наші учні навчалися в комфортних основах, то ми</p>
+            
+            <ul>
+                <li>займаємся в суботу та неділлю</li>
+                <li>кожна группа вчиться 2 год, від 10:00 до 18:00</li>
+                <li>якщо запізнились з поважною причиною то ми вибачаємо вас</li>
+                <li>1 раз в місяць в зиму-осінь в класі граємо в ігри та їмо вкусняшкі</li>
+                <li>людей в группі максімум від 10 до 15 людей</li>
+                </ul>
+                <p><img src="https://cdn.pixabay.com/photo/2016/11/09/23/16/music-1813100_1280.png" height="317px" width="257px"><img src="https://cdn.pixabay.com/photo/2020/11/25/14/14/cat-5775895_640.jpg" height="317px"></p>
+                </main>
+                <footer>
+                    <p>Записатись на заннятя,<b>тут!</b></p>
+                    </footer>
+    </body>
+</html>
